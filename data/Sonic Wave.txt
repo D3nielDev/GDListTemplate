@@ -1,10 +1,10 @@
 {
-    "id": 57436521,
-    "name": "Sonic Wave",
+    "id": 133584787,
+    "name": "Slaughterhouse EASY",
     "author": "Pixelatted_",
     "creators": [],
     "verifier": "Pixelatted_",
-    "verification": "https://youtu.be/3ixXeYa4YBw?si=_A7yZh6O89opkfDP",
+    "verification": "https://youtu.be/3qUDkpPtdkc?si=uqKVJXoPhJlMxbb-",
     "percentToQualify": "100",
     "password": "Copyable",
     "records": [
